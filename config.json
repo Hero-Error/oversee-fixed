@@ -7,7 +7,7 @@
     "ogTitle": "OverSee-Fixed",
     "ogDescription": "This is an instance of the OverSee - learn more at github.com/hydren-dev/OverSee",
     "total_resources": {
-        "ram": 8096,
+        "ram": 18096,
         "cores": 10,
         "disk": 50
     }
